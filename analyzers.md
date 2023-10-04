@@ -1,4 +1,4 @@
-# Analyzers, minimal example for trouble (aka Part 1/2)
+# Analyzers, index explorations (aka Part 1/3)
 
 _A mini example to highlight basics of analyzers (+vectors)._
 
