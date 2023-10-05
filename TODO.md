@@ -1,0 +1,3 @@
+- test a different index and passing 'kw1 kw2 ...' re-introducing stemmed tokenization of query string
+- two independent searches (run concurrently), cleverly merged afterwards
+- a larger realistic dataset
